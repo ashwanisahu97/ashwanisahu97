@@ -1,4 +1,4 @@
-<a href="#"><p align="center"><img  align="center" margin-left="20px" width="80%" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/></p></a>
+<a href="#"><p align="center"><img  align="center" margin-left="20px" width="70%" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwani Sahu</h1>
 <h3 align="center">I'm a passionate learner of Full Stack Developement from Masai School.</h3>
