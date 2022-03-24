@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ashsahu627@gmail.com**
 
-- ⚡ Fun fact **I read books and listen the music very often.**
+- ⚡ Interest **I read the books,enjoy dancing and listen the music very often.**
 
 - 🔭 Know more about me **[Portfolio](https://ashwanisahu.dev.voyage/)**
 
