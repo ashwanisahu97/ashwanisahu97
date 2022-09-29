@@ -18,9 +18,8 @@
 
 - ⚡ Interest **I read the books,enjoy dancing and listen the music very often.**
 
-- 🔭 Know more about me **[Portfolio](https://my-portfolio1-ashwanisahu97.vercel.app/)**
+- 🔭 Know more about me **[Portfolio](https://ashwanisahuportfolio.vercel.app)**
 
-## 🚀 Languages and Tools:
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
 
