@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ashwanisahu97/github-readme-activity-graph"><img alt="Ashwani Sahu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashwanisahu97&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashwani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashwanisahu97&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashwanisahu97/github-readme-activity-graph)
 
 <br/>
 <br/>
