@@ -104,7 +104,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ashwani-sahu-459458189/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/Ashwani90453593" target="_blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726126074~exp=1726126674~hmac=40ec8de84f7f2ab21ac964add322456a3e1d4d927e4134fca744ff97a13bf006"/></a>
+<a href = "https://x.com/Ashwani90453593" target="_blank"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/></a>
 <a href = "https://medium.com/@ashsahu627" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
 <a href = "mailto:ashsahu627@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
     
