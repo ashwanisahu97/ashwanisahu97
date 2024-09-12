@@ -8,7 +8,7 @@
 
 - 🔭 I’m Front End Developer at **[HONEYSYS IT SERVICES PRIVATE LIMITED](https://www.honeysys.com/)**
 
-- 🌱 I’m currently building robust projects **Front End Web Development at HONEYSYS IT SERVICES PRIVATE LIMITED**
+- 🌱 I’m currently building robust projects **at HONEYSYS IT SERVICES PRIVATE LIMITED**
 
 - 👯 I’m looking to work as **Web Developer**
 
