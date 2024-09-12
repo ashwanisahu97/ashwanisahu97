@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+- 🔭 I’m Front End Developer at **[HONEYSYS IT SERVICES PRIVATE LIMITED](https://www.honeysys.com/)**
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+- 🌱 I’m currently building robust projects **Front End Web Development at HONEYSYS IT SERVICES PRIVATE LIMITED**
 
 - 👯 I’m looking to work as **Web Developer**
 
