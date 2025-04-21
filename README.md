@@ -76,7 +76,8 @@
 <br/>
 <br/>
 
-[![Ashwani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashwanisahu97&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashwanisahu97/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashwanisahu97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 <br/>
 <br/>
