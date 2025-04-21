@@ -76,7 +76,8 @@
 <br/>
 <br/>
 
-![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanisahu97&show_icons=true&theme=tokyonight&hide_border=true)
+[![Ashwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwanisahu97&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashwanisahu97/github-readme-activity-graph)
+
 
 
 <br/>
