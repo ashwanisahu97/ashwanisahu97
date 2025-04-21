@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashwanisahu97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanisahu97&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 <br/>
