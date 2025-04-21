@@ -110,11 +110,11 @@
 </a>
 
 <a href="https://x.com/Ashwani90453593" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/48/000000/twitterx--v1.png" alt="X (Twitter)"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/twitterx--v1.png" alt="X (Twitter)"style="filter: invert(1);"/>
 </a>
 
 <a href="https://medium.com/@ashsahu627" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" style="filter: invert(1);"/>
 </a>
 
 <a href="mailto:ashsahu627@gmail.com" target="_blank">
