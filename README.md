@@ -105,20 +105,24 @@
 ## Connect with me:
 <p align="left">
 
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ashwani-sahu-459458189/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
 </a>
 
+<!-- X (Twitter) -->
 <a href="https://x.com/Ashwani90453593" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/48/000000/twitterx--v1.png" alt="X (Twitter)"style="filter: invert(1);"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X (Twitter)"/>
 </a>
 
+<!-- Medium -->
 <a href="https://medium.com/@ashsahu627" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" style="filter: invert(1);"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" width="40" alt="Medium"/>
 </a>
 
+<!-- Gmail -->
 <a href="mailto:ashsahu627@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail"/>
 </a>
 
     
