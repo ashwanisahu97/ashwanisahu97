@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Front End Developer at **[HONEYSYS IT SERVICES PRIVATE LIMITED](https://www.honeysys.com/)**
+- 🔭 I’m Front End Developer at **[HONEBI COMMERCE PRIVATE LIMITED](https://honebi.com/)**
 
-- 🌱 I’m currently building robust projects **at HONEYSYS IT SERVICES PRIVATE LIMITED**
+- 🌱 I’m currently building robust projects **at HONEBI COMMERCE PRIVATE LIMITED**
 
 - 👯 I’m looking to work as **Web Developer**
 
