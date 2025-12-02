@@ -1,7 +1,7 @@
 <a href="#"><p align="center"><img  align="center" margin-left="20px" width="70%" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwani Sahu</h1>
-<h3 align="center">I am a Tech Enthusiast, good at adapting to new technologies. My interests include full-stack developments, problem-solving, writing quality code and system design.I am an effective communicator, problem-solver and an aspiring leader in the making.</h3>
+<h3 align="center">Tech enthusiast with a strong ability to adapt to new technologies. I’m passionate about full-stack development, problem-solving, writing clean code, and exploring system design. An effective communicator and problem-solver, aspiring to grow as a leader in the tech space.</h3>
 
 
 ## 🙋‍♂️ About Me
