@@ -68,26 +68,7 @@
 
 
 
-## 📊 My Github Stats
 
-<br/>
-
-<a href="https://github.com/ashwanisahu97">
-  <img alt="GitHub Stats"
-       src="https://stats.dooboo.io/api/github-stats?login=ashwanisahu97&theme=react&border_radius=10" />
-</a>
-
-<a href="https://github.com/ashwanisahu97">
-  <img alt="Top Languages"
-       src="https://stats.dooboo.io/api/top-langs?login=ashwanisahu97&theme=react&border_radius=10" />
-</a>
-
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
 [![Ashwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwanisahu97&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashwanisahu97/github-readme-activity-graph)
