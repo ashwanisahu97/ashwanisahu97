@@ -70,16 +70,16 @@
 
 ## 📊 My Github Stats
 
- <br/>
+<br/>
 
-<a href="https://github.com/ashwanisahu97/github-readme-stats">
-  <img alt="Ashwani Sahu's Github Stats" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwanisahu97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ashwanisahu97">
+  <img alt="GitHub Stats"
+       src="https://stats.dooboo.io/api/github-stats?login=ashwanisahu97&theme=react&border_radius=10" />
 </a>
 
-<a href="https://github.com/ashwanisahu97/github-readme-stats">
-  <img alt="Ashwani Sahu's Top Languages" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwanisahu97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ashwanisahu97">
+  <img alt="Top Languages"
+       src="https://stats.dooboo.io/api/top-langs?login=ashwanisahu97&theme=react&border_radius=10" />
 </a>
 
 <br/>
